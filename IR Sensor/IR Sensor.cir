@@ -1,0 +1,11 @@
+.title KiCad schematic
+U1 __U1
+J1 __J1
+D3 GND O/P LED
+D2 __D2
+R3 Net-_R3-Pad1_ O/P R
+R1 Net-_D2-K_ GND R
+RV1 __RV1
+R2 Net-_D1-A_ GND R
+D1 __D1
+.end
